@@ -5,7 +5,8 @@ package com.simple.main;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("HELLO Git!!!");
+		String greetings = "Hello GitWorlds"
+		System.out.println(greetings);
 
 	}
 
